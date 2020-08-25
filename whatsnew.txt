@@ -1,0 +1,9 @@
+Version 2.0.1
+	- Added Flash Messages
+	- Fix textarea spacing
+	= Added Modal Feature
+
+	*To be implemented
+	- Imporve Design
+	- Edit 'posts' to 'todos' in MVC
+	- Change DB table, column names
